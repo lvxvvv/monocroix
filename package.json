@@ -1,6 +1,6 @@
 {
-  "name": "monochromex",
-  "displayName": "MonochromeX",
+  "name": "monocroix",
+  "displayName": "Monocroix",
   "publisher": "lvxvvv",
   "description": "Monochromatic dark color theme",
   "icon": "icon.png",
@@ -16,9 +16,9 @@
       "Minimal",
       "Minimalistic"
   ],
-  "homepage": "https://github.com/lvxvvv/monochromex",
+  "homepage": "https://github.com/lvxvvv/monocroix",
   "repository": {
-    "url": "https://github.com/lvxvvv/monochromex.git",
+    "url": "https://github.com/lvxvvv/monocroix.git",
     "type": "git"
 },
   "engines": {
@@ -30,9 +30,9 @@
   "contributes": {
     "themes": [
       {
-        "label": "monochromex",
+        "label": "monocroix",
         "uiTheme": "vs-dark",
-        "path": "./themes/monochromex-color-theme.json"
+        "path": "./themes/monocroix-color-theme.json"
       }
     ]
   }
