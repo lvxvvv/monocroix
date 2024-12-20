@@ -1,0 +1,39 @@
+{
+  "name": "monochromex",
+  "displayName": "MonochromeX",
+  "publisher": "lvxvvv",
+  "description": "Monochromatic dark color theme",
+  "icon": "icon.png",
+  "version": "0.0.1",
+  "license": "MIT",
+  "keywords": [
+      "Color Theme",
+      "color-theme",
+      "Theme",
+      "Dark",
+      "Monochrome",
+      "Monochromatic",
+      "Minimal",
+      "Minimalistic"
+  ],
+  "homepage": "https://github.com/lvxvvv/monochromex",
+  "repository": {
+    "url": "https://github.com/lvxvvv/monochromex.git",
+    "type": "git"
+},
+  "engines": {
+    "vscode": "^1.95.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "monochromex",
+        "uiTheme": "vs-dark",
+        "path": "./themes/monochromex-color-theme.json"
+      }
+    ]
+  }
+}
