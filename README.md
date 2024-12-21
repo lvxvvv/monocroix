@@ -1,4 +1,4 @@
-# MonochromeX
+# Monocroix
 
 Monochromatic dark theme.
 
