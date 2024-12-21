@@ -1,6 +1,8 @@
 {
   "name": "",
     "$schema": "vscode://schemas/color-theme",
+    "editor.bracketPairColorization.enabled": false,
+    "editor.fontFamily": "'monospace', monospace, 'Droid Sans Mono'",
     "type": "dark",
     "colors": {
       "window.activeBorder": "#101010",
@@ -501,7 +503,7 @@
           "support.type"
         ],
         "settings": {
-          "foreground": "#B2CCD6"
+          "foreground": "#efefef"
         }
       },
       {

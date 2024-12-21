@@ -4,7 +4,7 @@
   "publisher": "lvxvvv",
   "description": "Monochromatic dark color theme",
   "icon": "icon.png",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "license": "MIT",
   "keywords": [
       "Color Theme",
@@ -21,9 +21,6 @@
     "url": "https://github.com/lvxvvv/monocroix.git",
     "type": "git"
 },
-  "engines": {
-    "vscode": "^1.95.0"
-  },
   "categories": [
     "Themes"
   ],
