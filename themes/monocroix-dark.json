@@ -304,6 +304,7 @@
       },
       {
         "scope": [
+          "string.unquoted.argument",
           "keyword.control.at-rule",
           "punctuation.terminator.rule.css",
           "keyword.control.operator",
@@ -355,6 +356,7 @@
       },
       {
         "scope": [
+         
           "text.html.derivative"
         ],
         "settings": {
