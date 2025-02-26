@@ -337,6 +337,9 @@
       },
       {
         "scope": [
+          "string",
+          "string.quoted.double.html",
+          "string.quoted.double.json",
           "comment.line.scss",
           "comment.line.double-slash.js",
           "punctuation.definition.comment.scss",
@@ -400,11 +403,8 @@
       },
       {
         "scope": [
-          "string",
-          "string.quoted.double.html",
           "variable.other.constant.js",
           "variable.other.object.property.js",
-          "string.quoted.double.json",
           "markup.fenced_code.block.markdown",
           "markup.inline.raw.string.markdown",
           "variable.function",
@@ -682,7 +682,7 @@
         ],
         "settings": {
           "foreground": "#efefef",
-          "fontStyle": ""
+          "fontStyle": "bold"
         }
       },
       {
